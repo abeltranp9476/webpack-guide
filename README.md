@@ -54,3 +54,5 @@ webpack --mode productio
 ```
 webpack ./src/index.js --output ./dist/main.js
 ```
+
+[Guia en Notion](https://www.notion.so/Curso-de-Webpack-797d35d9af4a4c13b5ddfa3160e953ed)
